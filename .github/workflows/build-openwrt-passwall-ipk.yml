@@ -40,7 +40,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-18.04
-    if: github.event.repository.owner.id == github.event.sender.id  //点击star开始执行
+    if: github.event.repository.owner.id == github.event.sender.id  #点击star开始执行
 
     steps:
     - name: Checkout
