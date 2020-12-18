@@ -1,3 +1,8 @@
+NOTICE:目前ACTIONS更新后似乎存在问题，导致无法编译，需要的话请直接下载RELEASES。我会抽空修复ACTIONS。修复完成之后将会设置为每24小时自动编译此并发布Release。
+
+
+
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
